@@ -305,7 +305,7 @@
     "@types/jest": "^26.0.0",
     "@types/yaml": "1.2.0",
     "cdk-build-tools": "0.0.0",
-    "jest": "^25.4.0",
+    "jest": "^26.0.1",
     "pkglint": "0.0.0",
     "ts-jest": "^26.1.0"
   },
